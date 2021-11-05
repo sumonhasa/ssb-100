@@ -1,0 +1,11 @@
+.blog{
+
+border: 20px solid rgb(255, 0, 0);
+
+margin: 20px;
+
+padding: 40px;
+text-align: center;
+float: right;
+text-transform: lowercase;
+}
